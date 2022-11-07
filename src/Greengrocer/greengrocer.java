@@ -16,7 +16,7 @@ public class greengrocer {
 			unit[i]=input.nextDouble();
 			totalPrice += unit[i]*unitPrice[i];
 		}
-		System.out.println("Toplam ucret :"+totalPrice);
+		System.out.println("Toplam ucret :"+totalPrice + "TL");
 		
 
 	}
