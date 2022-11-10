@@ -29,7 +29,6 @@ public class avarage {
 		System.out.println((avarage > 60) ? "Sinifi gecti" : "Sinifta kaldi");
 		
 		
-		
 
 	}
 
